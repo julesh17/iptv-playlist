@@ -1,0 +1,26 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Jeunesse" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/4/4a/TiJi_logo_2017.png",Tiji
+https://live.streamgatos.top/hls/10666/stream.m3u8
+
+#EXTINF:-1 group-title="Cinéma" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/3/35/Canal%2B_logo_2018.svg",Canal +
+https://live.streamgatos.top/hls/361/stream.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/BeIN_Sports_Logo.svg",BEIN SPORTS 1 FR
+https://live.streamgatos.top/hls/882/stream.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/BeIN_Sports_Logo.svg",BEIN SPORTS 2 FR
+https://live.streamgatos.top/hls/883/stream.m3u8
+
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/BeIN_Sports_Logo.svg",BEIN SPORTS 3 FR
+https://live.streamgatos.top/hls/884/stream.m3u8
+
+#EXTINF:-1 group-title="Jeunesse" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/5/5b/Canal_J_logo_2017.png",Canal J
+https://live.streamgatos.top/hls/711/stream.m3u8
+
+#EXTINF:-1 group-title="Jeunesse" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/2/2a/Teletoon%2B_logo_2020.png",Télétoon +
+https://live.streamgatos.top/hls/710/stream.m3u8
+
+#EXTINF:-1 group-title="Jeunesse" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/6/63/Gulli_logo_2017.png",Gulli
+https://live.streamgatos.top/hls/337/stream.m3u8
+
